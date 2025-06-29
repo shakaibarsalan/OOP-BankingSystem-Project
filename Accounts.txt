@@ -1,0 +1,8 @@
+24228978	C	KFC Hehe	3629.0	9000	A	3320285835007	murtazaeman651@gmail.com	3107267600	SST Office, UMT Lahore
+24329055	M	Owais Khan	16550	6864	A	3320285835007	owaiskhan1233@umt.edu.pk	3598871546	Umt
+24429132	B	Arman Tahir	7404.7	1236	A	3130375398652	armanbintahir123@gmail.com	6754398763	lahore
+24529209	C	Abdul Hadi	2300	5324	B	3765436578201	abdulhadi12345@gamil.com	4371937493	PIA Colony,lhore
+24629286	C	shakaib arsalan	2300	1234	A	3130388888888	shakaibarsalan6553@gmail.com	3242776833	usaman park ryk
+24729363	B	M.shakaib	50000	1472	B	3130345454547	shakaibarsalan6553@gmail.com	3032862888	usman park, RYK
+24829440	B	Mohyudin	7777	7777	A	3130333333999	mohyudindahir1234@gmail.com	7654329865	ryk pakistan
+24929517	C	usman ali	2000	1111	A	3130346727451	shkaiabarsalan	2222222222	afwfa
