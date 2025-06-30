@@ -4,12 +4,6 @@ Below is a well-structured **README.md** file for a GitHub project, based on the
 
 # OOP-BANKINGSYSTEM-PROJECT
 
-*Empowering Secure, Seamless Banking Experiences Everywhere*
-
-![last-commit](https://img.shields.io/github/last-commit/shakaibarsalan/OOP-BankingSystem-Project?style=flat&logo=git&logoColor=-top-language](https://img.shields.io/github/languages/top/shakaibarsalan/OOP-BankingSystem-Project?style=flat-count](https://img.shields.io/github/languages/count/shakaibarsalan/OOP-BankingSystem-Project?style=flat the tools and technologies:*
-
-![Markdown](https://img.shields.io/badge/Markdown-000000.svg?style=flat&logo=Markdown&logoColor=white.io/badge/C++-00599C.svg?style=flat&logo=C++&logoColor of Contents
-
 - [Overview](#overview)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
