@@ -56,9 +56,3 @@ OOP-BankingSystem-Project uses the **test_framework** test suite. Run the tests 
 ```sh
 ctest
 ```
-
-⬆ Return
-
-[1]
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/69525295/8cbdebc8-a529-4612-aaa8-b95582aebff3/paste.txt
