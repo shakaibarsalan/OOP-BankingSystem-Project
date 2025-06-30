@@ -1,7 +1,3 @@
-Below is a well-structured **README.md** file for a GitHub project, based on the provided content. This template includes all essential sections, clear instructions, and uses Markdown formatting for maximum readability and usability[1].
-
-
-
 # OOP-BANKINGSYSTEM-PROJECT
 
 - [Overview](#overview)
